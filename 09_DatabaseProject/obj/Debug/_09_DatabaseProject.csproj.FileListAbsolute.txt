@@ -1,0 +1,8 @@
+C:\Users\Eren\source\repos\_09_DatabaseProject\bin\Debug\_09_DatabaseProject.exe.config
+C:\Users\Eren\source\repos\_09_DatabaseProject\bin\Debug\_09_DatabaseProject.exe
+C:\Users\Eren\source\repos\_09_DatabaseProject\bin\Debug\_09_DatabaseProject.pdb
+C:\Users\Eren\source\repos\_09_DatabaseProject\obj\Debug\_09_DatabaseProject.csproj.AssemblyReference.cache
+C:\Users\Eren\source\repos\_09_DatabaseProject\obj\Debug\_09_DatabaseProject.csproj.CoreCompileInputs.cache
+C:\Users\Eren\source\repos\_09_DatabaseProject\obj\Debug\_09_DatabaseProject.exe
+C:\Users\Eren\source\repos\_09_DatabaseProject\obj\Debug\_09_DatabaseProject.pdb
+C:\Users\Eren\source\repos\_09_DatabaseProject\obj\Debug\_09_DatabaseProject.exe.config
