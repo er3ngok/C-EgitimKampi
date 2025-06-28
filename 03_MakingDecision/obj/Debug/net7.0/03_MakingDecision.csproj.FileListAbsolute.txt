@@ -1,0 +1,15 @@
+/Users/eren/Projects/C-EgitimKampi/03_MakingDecision/bin/Debug/net7.0/03_MakingDecision
+/Users/eren/Projects/C-EgitimKampi/03_MakingDecision/bin/Debug/net7.0/03_MakingDecision.deps.json
+/Users/eren/Projects/C-EgitimKampi/03_MakingDecision/bin/Debug/net7.0/03_MakingDecision.runtimeconfig.json
+/Users/eren/Projects/C-EgitimKampi/03_MakingDecision/bin/Debug/net7.0/03_MakingDecision.dll
+/Users/eren/Projects/C-EgitimKampi/03_MakingDecision/bin/Debug/net7.0/03_MakingDecision.pdb
+/Users/eren/Projects/C-EgitimKampi/03_MakingDecision/obj/Debug/net7.0/03_MakingDecision.csproj.AssemblyReference.cache
+/Users/eren/Projects/C-EgitimKampi/03_MakingDecision/obj/Debug/net7.0/03_MakingDecision.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eren/Projects/C-EgitimKampi/03_MakingDecision/obj/Debug/net7.0/03_MakingDecision.AssemblyInfoInputs.cache
+/Users/eren/Projects/C-EgitimKampi/03_MakingDecision/obj/Debug/net7.0/03_MakingDecision.AssemblyInfo.cs
+/Users/eren/Projects/C-EgitimKampi/03_MakingDecision/obj/Debug/net7.0/03_MakingDecision.csproj.CoreCompileInputs.cache
+/Users/eren/Projects/C-EgitimKampi/03_MakingDecision/obj/Debug/net7.0/03_MakingDecision.dll
+/Users/eren/Projects/C-EgitimKampi/03_MakingDecision/obj/Debug/net7.0/refint/03_MakingDecision.dll
+/Users/eren/Projects/C-EgitimKampi/03_MakingDecision/obj/Debug/net7.0/03_MakingDecision.pdb
+/Users/eren/Projects/C-EgitimKampi/03_MakingDecision/obj/Debug/net7.0/03_MakingDecision.genruntimeconfig.cache
+/Users/eren/Projects/C-EgitimKampi/03_MakingDecision/obj/Debug/net7.0/ref/03_MakingDecision.dll

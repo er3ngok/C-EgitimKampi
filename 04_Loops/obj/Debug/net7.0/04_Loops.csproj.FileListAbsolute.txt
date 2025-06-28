@@ -1,0 +1,15 @@
+/Users/eren/Projects/C-EgitimKampi/04_Loops/obj/Debug/net7.0/04_Loops.csproj.AssemblyReference.cache
+/Users/eren/Projects/C-EgitimKampi/04_Loops/obj/Debug/net7.0/04_Loops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eren/Projects/C-EgitimKampi/04_Loops/obj/Debug/net7.0/04_Loops.AssemblyInfoInputs.cache
+/Users/eren/Projects/C-EgitimKampi/04_Loops/obj/Debug/net7.0/04_Loops.AssemblyInfo.cs
+/Users/eren/Projects/C-EgitimKampi/04_Loops/obj/Debug/net7.0/04_Loops.csproj.CoreCompileInputs.cache
+/Users/eren/Projects/C-EgitimKampi/04_Loops/bin/Debug/net7.0/04_Loops
+/Users/eren/Projects/C-EgitimKampi/04_Loops/bin/Debug/net7.0/04_Loops.deps.json
+/Users/eren/Projects/C-EgitimKampi/04_Loops/bin/Debug/net7.0/04_Loops.runtimeconfig.json
+/Users/eren/Projects/C-EgitimKampi/04_Loops/bin/Debug/net7.0/04_Loops.dll
+/Users/eren/Projects/C-EgitimKampi/04_Loops/bin/Debug/net7.0/04_Loops.pdb
+/Users/eren/Projects/C-EgitimKampi/04_Loops/obj/Debug/net7.0/04_Loops.dll
+/Users/eren/Projects/C-EgitimKampi/04_Loops/obj/Debug/net7.0/refint/04_Loops.dll
+/Users/eren/Projects/C-EgitimKampi/04_Loops/obj/Debug/net7.0/04_Loops.pdb
+/Users/eren/Projects/C-EgitimKampi/04_Loops/obj/Debug/net7.0/04_Loops.genruntimeconfig.cache
+/Users/eren/Projects/C-EgitimKampi/04_Loops/obj/Debug/net7.0/ref/04_Loops.dll

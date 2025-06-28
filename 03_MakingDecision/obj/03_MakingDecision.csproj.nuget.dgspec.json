@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/eren/Projects/C-EgitimKampi/03_MakingDecision/03_MakingDecision.csproj": {}
+  },
+  "projects": {
+    "/Users/eren/Projects/C-EgitimKampi/03_MakingDecision/03_MakingDecision.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/eren/Projects/C-EgitimKampi/03_MakingDecision/03_MakingDecision.csproj",
+        "projectName": "03_MakingDecision",
+        "projectPath": "/Users/eren/Projects/C-EgitimKampi/03_MakingDecision/03_MakingDecision.csproj",
+        "packagesPath": "/Users/eren/.nuget/packages/",
+        "outputPath": "/Users/eren/Projects/C-EgitimKampi/03_MakingDecision/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/eren/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.317/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
