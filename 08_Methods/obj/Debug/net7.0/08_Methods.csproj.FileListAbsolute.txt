@@ -1,0 +1,15 @@
+/Users/eren/Projects/C-EgitimKampi/08_Methods/bin/Debug/net7.0/08_Methods
+/Users/eren/Projects/C-EgitimKampi/08_Methods/bin/Debug/net7.0/08_Methods.deps.json
+/Users/eren/Projects/C-EgitimKampi/08_Methods/bin/Debug/net7.0/08_Methods.runtimeconfig.json
+/Users/eren/Projects/C-EgitimKampi/08_Methods/bin/Debug/net7.0/08_Methods.dll
+/Users/eren/Projects/C-EgitimKampi/08_Methods/bin/Debug/net7.0/08_Methods.pdb
+/Users/eren/Projects/C-EgitimKampi/08_Methods/obj/Debug/net7.0/08_Methods.csproj.AssemblyReference.cache
+/Users/eren/Projects/C-EgitimKampi/08_Methods/obj/Debug/net7.0/08_Methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eren/Projects/C-EgitimKampi/08_Methods/obj/Debug/net7.0/08_Methods.AssemblyInfoInputs.cache
+/Users/eren/Projects/C-EgitimKampi/08_Methods/obj/Debug/net7.0/08_Methods.AssemblyInfo.cs
+/Users/eren/Projects/C-EgitimKampi/08_Methods/obj/Debug/net7.0/08_Methods.csproj.CoreCompileInputs.cache
+/Users/eren/Projects/C-EgitimKampi/08_Methods/obj/Debug/net7.0/08_Methods.dll
+/Users/eren/Projects/C-EgitimKampi/08_Methods/obj/Debug/net7.0/refint/08_Methods.dll
+/Users/eren/Projects/C-EgitimKampi/08_Methods/obj/Debug/net7.0/08_Methods.pdb
+/Users/eren/Projects/C-EgitimKampi/08_Methods/obj/Debug/net7.0/08_Methods.genruntimeconfig.cache
+/Users/eren/Projects/C-EgitimKampi/08_Methods/obj/Debug/net7.0/ref/08_Methods.dll

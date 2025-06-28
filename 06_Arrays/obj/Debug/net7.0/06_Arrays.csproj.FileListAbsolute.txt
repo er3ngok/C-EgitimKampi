@@ -1,0 +1,15 @@
+/Users/eren/Projects/C-EgitimKampi/06_Arrays/bin/Debug/net7.0/06_Arrays
+/Users/eren/Projects/C-EgitimKampi/06_Arrays/bin/Debug/net7.0/06_Arrays.deps.json
+/Users/eren/Projects/C-EgitimKampi/06_Arrays/bin/Debug/net7.0/06_Arrays.runtimeconfig.json
+/Users/eren/Projects/C-EgitimKampi/06_Arrays/bin/Debug/net7.0/06_Arrays.dll
+/Users/eren/Projects/C-EgitimKampi/06_Arrays/bin/Debug/net7.0/06_Arrays.pdb
+/Users/eren/Projects/C-EgitimKampi/06_Arrays/obj/Debug/net7.0/06_Arrays.csproj.AssemblyReference.cache
+/Users/eren/Projects/C-EgitimKampi/06_Arrays/obj/Debug/net7.0/06_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eren/Projects/C-EgitimKampi/06_Arrays/obj/Debug/net7.0/06_Arrays.AssemblyInfoInputs.cache
+/Users/eren/Projects/C-EgitimKampi/06_Arrays/obj/Debug/net7.0/06_Arrays.AssemblyInfo.cs
+/Users/eren/Projects/C-EgitimKampi/06_Arrays/obj/Debug/net7.0/06_Arrays.csproj.CoreCompileInputs.cache
+/Users/eren/Projects/C-EgitimKampi/06_Arrays/obj/Debug/net7.0/06_Arrays.dll
+/Users/eren/Projects/C-EgitimKampi/06_Arrays/obj/Debug/net7.0/refint/06_Arrays.dll
+/Users/eren/Projects/C-EgitimKampi/06_Arrays/obj/Debug/net7.0/06_Arrays.pdb
+/Users/eren/Projects/C-EgitimKampi/06_Arrays/obj/Debug/net7.0/06_Arrays.genruntimeconfig.cache
+/Users/eren/Projects/C-EgitimKampi/06_Arrays/obj/Debug/net7.0/ref/06_Arrays.dll

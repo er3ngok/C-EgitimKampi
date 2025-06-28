@@ -1,0 +1,15 @@
+/Users/eren/Projects/C-EgitimKampi/05_LoopsWithStars/bin/Debug/net7.0/05_LoopsWithStars
+/Users/eren/Projects/C-EgitimKampi/05_LoopsWithStars/bin/Debug/net7.0/05_LoopsWithStars.deps.json
+/Users/eren/Projects/C-EgitimKampi/05_LoopsWithStars/bin/Debug/net7.0/05_LoopsWithStars.runtimeconfig.json
+/Users/eren/Projects/C-EgitimKampi/05_LoopsWithStars/bin/Debug/net7.0/05_LoopsWithStars.dll
+/Users/eren/Projects/C-EgitimKampi/05_LoopsWithStars/bin/Debug/net7.0/05_LoopsWithStars.pdb
+/Users/eren/Projects/C-EgitimKampi/05_LoopsWithStars/obj/Debug/net7.0/05_LoopsWithStars.csproj.AssemblyReference.cache
+/Users/eren/Projects/C-EgitimKampi/05_LoopsWithStars/obj/Debug/net7.0/05_LoopsWithStars.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eren/Projects/C-EgitimKampi/05_LoopsWithStars/obj/Debug/net7.0/05_LoopsWithStars.AssemblyInfoInputs.cache
+/Users/eren/Projects/C-EgitimKampi/05_LoopsWithStars/obj/Debug/net7.0/05_LoopsWithStars.AssemblyInfo.cs
+/Users/eren/Projects/C-EgitimKampi/05_LoopsWithStars/obj/Debug/net7.0/05_LoopsWithStars.csproj.CoreCompileInputs.cache
+/Users/eren/Projects/C-EgitimKampi/05_LoopsWithStars/obj/Debug/net7.0/05_LoopsWithStars.dll
+/Users/eren/Projects/C-EgitimKampi/05_LoopsWithStars/obj/Debug/net7.0/refint/05_LoopsWithStars.dll
+/Users/eren/Projects/C-EgitimKampi/05_LoopsWithStars/obj/Debug/net7.0/05_LoopsWithStars.pdb
+/Users/eren/Projects/C-EgitimKampi/05_LoopsWithStars/obj/Debug/net7.0/05_LoopsWithStars.genruntimeconfig.cache
+/Users/eren/Projects/C-EgitimKampi/05_LoopsWithStars/obj/Debug/net7.0/ref/05_LoopsWithStars.dll

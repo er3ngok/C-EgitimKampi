@@ -1,0 +1,15 @@
+/Users/eren/Projects/C-EgitimKampi/07_ForEachLoops/bin/Debug/net7.0/07_ForEachLoops
+/Users/eren/Projects/C-EgitimKampi/07_ForEachLoops/bin/Debug/net7.0/07_ForEachLoops.deps.json
+/Users/eren/Projects/C-EgitimKampi/07_ForEachLoops/bin/Debug/net7.0/07_ForEachLoops.runtimeconfig.json
+/Users/eren/Projects/C-EgitimKampi/07_ForEachLoops/bin/Debug/net7.0/07_ForEachLoops.dll
+/Users/eren/Projects/C-EgitimKampi/07_ForEachLoops/bin/Debug/net7.0/07_ForEachLoops.pdb
+/Users/eren/Projects/C-EgitimKampi/07_ForEachLoops/obj/Debug/net7.0/07_ForEachLoops.csproj.AssemblyReference.cache
+/Users/eren/Projects/C-EgitimKampi/07_ForEachLoops/obj/Debug/net7.0/07_ForEachLoops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eren/Projects/C-EgitimKampi/07_ForEachLoops/obj/Debug/net7.0/07_ForEachLoops.AssemblyInfoInputs.cache
+/Users/eren/Projects/C-EgitimKampi/07_ForEachLoops/obj/Debug/net7.0/07_ForEachLoops.AssemblyInfo.cs
+/Users/eren/Projects/C-EgitimKampi/07_ForEachLoops/obj/Debug/net7.0/07_ForEachLoops.csproj.CoreCompileInputs.cache
+/Users/eren/Projects/C-EgitimKampi/07_ForEachLoops/obj/Debug/net7.0/07_ForEachLoops.dll
+/Users/eren/Projects/C-EgitimKampi/07_ForEachLoops/obj/Debug/net7.0/refint/07_ForEachLoops.dll
+/Users/eren/Projects/C-EgitimKampi/07_ForEachLoops/obj/Debug/net7.0/07_ForEachLoops.pdb
+/Users/eren/Projects/C-EgitimKampi/07_ForEachLoops/obj/Debug/net7.0/07_ForEachLoops.genruntimeconfig.cache
+/Users/eren/Projects/C-EgitimKampi/07_ForEachLoops/obj/Debug/net7.0/ref/07_ForEachLoops.dll
