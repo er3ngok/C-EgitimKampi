@@ -1,6 +1,8 @@
 # C# Eğitim Kampı
 
-Bu repoda Murat Yücedağ'ın Youtube'daki C# Eğitim Kampı eğitimi kapsamında bitirdiğim projelere ulaşabilirsiniz. Not: İlk 8 projeyi macOS üzerinde geliştirdiğim için kodlarda ufak tefek farklılıklar olabilir, 9. projeden itibaren Windows OS kullanılmaya başlanmıştır.
+Bu repoda Murat Yücedağ'ın Youtube'daki C# Eğitim Kampı eğitimi kapsamında bitirdiğim projelere ulaşabilirsiniz. 
+
+Not: İlk 8 projeyi macOS üzerinde geliştirdiğim için kodlarda ufak tefek farklılıklar olabilir, 9. projeden itibaren Windows OS kullanılmaya başlanmıştır.
 
 # Proje 1 - Yazdırma Komutları / Değişkenler
 
