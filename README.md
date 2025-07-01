@@ -39,3 +39,13 @@ Methodların çeşitlerini öğrendim, aynı zamanda farklı methodların kullan
 # Proje 9 - Veritabanı Projesi
 
 MSSQL üzerinde bir veritabanı oluşturdum ve bu veritabanında farklı veri tiplerini (bit, char, decimal, varchar) öğrendim. ID gibi unique değerler için Primary Key kullanımını, SQL'de tabloya giriş yaptılan verilerin kod ile nasıl işlenebileceğini öğrendim.
+
+# Proje 10 - Sipariş İşleme Paneli
+
+CRUD (create, read, update, delete) fonksiyonlarıyla beraber veritabanı üzerinde işlemler gerçekleştirdim. SQL bağlantısını sağlayarak CRUD işlemleri üzerinde pratik yaptım.
+
+# Proje 11 - EntityFramework TravelDb İstatistik Paneli
+
+![Ekran görüntüsü 2025-07-01 230124](https://github.com/user-attachments/assets/ecdd2225-26bc-49ae-af07-1eed49d62e59)
+
+C# Eğitim Kampı kapsamında EntityFramework methodlarını kullanarak bir istatistik paneli geliştirdim. Bu proje, veritabanında var olan veriler ile etkileşime girerek Ortalama Kapasite, Rehber Sayısı, Ortalama Tur Fiyatı ve Seçilen Rehberin Tur sayısı gibi çeşitli verileri gösterebiliyor. Projeyi geliştirirken önyüz tarafında ComboBox, Label ve NumericUpDown gibi farklı Toolbox araçlarıyla tanıştım ve birbirinden neden ayrıştıklarını ve farklı senaryolarda kullanılma sebeplerini öğrendim. 
